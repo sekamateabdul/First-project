@@ -1,0 +1,77 @@
+
+body{
+    background-color:grey;
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+}
+.contact-us-box{
+    width: 300px;
+    position: absolute;
+}
+.input-field{
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+}
+.but{
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: darksalmon;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+.information-panel {
+    background-color: whitesmoke;
+    width: 350px;
+    margin-left: 850px;
+    text-align: center;
+    
+}
+.bottom-layer{
+    background-color: black;
+    margin: -25px;
+    margin-top: 5px;
+    
+    color: white;
+}
+.bottom-layer h4{
+    font-size: 50px;
+    text-align: center;
+}
+.bottom-layer p{
+font-size: 15px;
+text-align: center;
+
+}
+.table{
+    background-color: black;
+    
+}
+.footer{
+    background-color: violet;
+    /*padding-left: 500px;
+    padding-bottom: 50px;
+    margin: -25px;*/
+}
+.t{
+    width: 30px;
+    height:25px;
+    margin-left: 300px;
+}
+
+.you{
+    height: 25px;
+    width: 60px;
+}
+.back a{
+    font-size: 30px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-bottom: none;
+    text-decoration: none;
+}

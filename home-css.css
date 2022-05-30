@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+    background-image: url(images/img5.jpg );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-position: center;
+    padding: 1%;*/
+}
+
+.log img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 600px;
+    left: 650px;
+    border-radius: 50%;
+}
+
+.headers{
+    display: flex;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.headers a{
+    text-decoration: none;
+}
+.headers :hover{
+    color: red;
+}
+
+.header2{
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 600px;
+}
+h2{
+    font-family: monospace;
+    text-align: center;
+    position: relative;
+    bottom: 390px;
+
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 610px;
+    line-height: 60px;
+    
+}
+.header3{
+    margin-left: 20px;
+}
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: black;
+    height: 60px;
+    
+}
+.logo{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom: 50px;
+    border-radius: 100%;
+}
+span{
+    color: red;
+}
+.nav-bar {
+    list-style-type: none;
+    display: flex;
+    padding-right: 10px 20px;
+    
+    
+}
+.nav-bar a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.nav-bar a:hover{
+    color: springgreen;
+}
+.bar2{
+    margin-left: 20px;
+}
+.bar3{
+    margin-left: 20px;
+}
+/*.links{
+    position: relative;
+    left: 100px;
+}
+.links img{
+    height: 2%;
+    width: 2%;
+}*/
+
+
+/* FOOTER STYLES */
+.footer{
+    padding-left: 500px;
+    padding-bottom: 50px;
+}
+
+
+.t{
+    width: 30px;
+    height:25px;
+    position: relative;
+    left: 100px;
+}
+
+.you{
+    height: 25px;
+    width: 100px;
+    position: relative;
+    left: 100px;
+}
